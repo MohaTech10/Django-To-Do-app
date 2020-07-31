@@ -1,0 +1,5 @@
+course_platform/
+.idea/
+.gitignore
+venv/
+templates/*.html
